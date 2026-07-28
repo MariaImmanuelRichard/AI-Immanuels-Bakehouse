@@ -1,0 +1,46 @@
+1. Naive Prompt
+Create a recipe for a Basque Cheesecake.
+
+2. Persona Prompt
+Act as an award-winning pastry chef with expertise in artisan bakeries and commercial baking.
+
+Create a Basque Cheesecake recipe suitable for a home bakery business.
+Include:
+• Ingredients in grams
+• Equipment
+• Baking Temperature
+• Baking Time
+• Cooling
+• Storage
+• Shelf Life
+
+3. Enhanced Persona Prompt
+You are the Head Pastry Chef of a premium artisan bakery.
+Develop a Standard Operating Procedure (SOP) for producing Basque Cheesecake for Immanuel's Bakehouse.
+The SOP should include:
+• Batch Size
+• Ingredients
+• Mixing Procedure
+• Critical Control Points
+• Baking Parameters
+• Cooling Procedure
+• Packaging
+• Labelling
+• Shelf Life
+• Quality Inspection Checklist
+• Customer Acceptance Criteria
+Present the output as an ISO-style production document.
+
+4. Bonus Prompt (Business)
+Act as a bakery business consultant.
+Prepare a launch strategy for Immanuel's Bakehouse for the next 30 days.
+Include:
+• Marketing
+• Instagram Content
+• WhatsApp Catalogue
+• Production Schedule
+• Inventory Planning
+• Cost Control
+• Daily Sales Target
+• Customer Acquisition Strategy
+Present the output as a weekly action plan.
