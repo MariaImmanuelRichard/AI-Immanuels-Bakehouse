@@ -41,6 +41,34 @@ Include:
 • Production Schedule
 • Inventory Planning
 • Cost Control
+
+5. Naive
+
+Create a cheesecake recipe.
+
+↓
+
+Improved
+
+Create a Basque Cheesecake recipe.
+
+↓
+
+Persona
+
+Act as an Artisan Pastry Chef.
+
+↓
+
+Final
+
+Act as a Head Pastry Chef specializing in artisan bakeries.
+
+Develop a production SOP for Basque Cheesecake for AI Immanuel's Bakehouse.
+
+Include ingredients, batch size, baking parameters, critical control points, packaging, shelf life, quality checklist, and customer acceptance criteria.
+
+Return the output in Markdown.
 • Daily Sales Target
 • Customer Acquisition Strategy
 Present the output as a weekly action plan.
