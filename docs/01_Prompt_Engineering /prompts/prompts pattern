@@ -92,3 +92,1063 @@ Generate five relevant Instagram hashtags for launching Immanuel's Bakehouse Sig
 
 These hashtags are more likely to connect with people interested in your bakery and location.
 
+Module 2
+
+This is where the engineering techniques are introduced.
+
+1. Text-to-Text Prompt Techniques
+Reusable Asset
+Technique Library
+Text-to-Text Prompt Pattern
+
+Examples
+AIQEP
+Bakehouse
+
+2. Interview Pattern
+New Prompt Pattern
+AI asks questions
+↓
+Collects requirements
+↓
+Generates better output
+
+AIQEP Example
+Interview me before generating an Audit Plan.
+Bakehouse
+Interview me before creating a recipe.
+
+3. Chain of Thought
+New Technique
+Reason step-by-step.
+
+AIQEP
+Root Cause Analysis
+Risk Assessment
+CAPA
+
+4. Tree of Thought
+New Technique
+Generate multiple reasoning paths
+↓
+Compare
+↓
+
+Choose best
+AIQEP
+Decision Making
+Risk Analysis
+FMEA
+
+5. Multimodal Prompting
+Images
+Documents
+Tables
+Charts
+
+AIQEP
+Audit Evidence
+Defect Screenshots
+Architecture Diagrams
+Bakehouse
+Cake Photos
+Packaging Images
+Ingredient Labels
+
+6. Playoff Method
+Generate multiple solutions
+↓
+Compare
+↓
+Select best
+
+Excellent for
+AIQEP
+Quality Plans
+Audit Reports
+Bakehouse
+Marketing
+Recipes
+Packaging
+
+AI Immanuel's Bakehouse Interview Pattern Library
+Product Development
+Act as a Professional Pastry Chef.
+Interview me before suggesting a new bakery product.
+Ask one question at a time.
+Collect
+Target Customer
+Occasion
+Budget
+Ingredients
+Equipment
+Shelf Life
+Packaging
+Selling Price
+Desired Margin
+After collecting all information suggest
+3 products
+Recipe
+Cost
+Selling Price
+Marketing Tagline.
+
+Cake Recipe Generator
+Act as a Master Pastry Chef.
+Interview me.
+Collect
+Cake Type
+Weight
+Flavour
+Decoration
+Budget
+Serving Size
+Baking Equipment
+After the interview generate
+Recipe
+Process
+Temperature
+Baking Time
+Costing
+Selling Price.
+
+Menu Planning
+Act as a Bakery Business Consultant.
+Interview me.
+Ask
+Target Market
+Season
+Festival
+Budget
+Available Ingredients
+Expected Sales
+Equipment Capacity
+After collecting the answers generate
+Menu
+Pricing
+Profit Estimate
+Production Schedule.
+Marketing Campaign
+
+Act as a Digital Marketing Manager.
+Interview me before writing marketing content.
+Ask
+Target Audience
+Product
+Platform
+Budget
+Offer
+Tone
+Brand Style
+After gathering information generate
+Instagram Caption
+Facebook Post
+WhatsApp Campaign
+Poster Text
+Hashtags.
+
+AI Immanuel's Bakehouse Interview Pattern Library
+Act as an experienced Professional Pastry Chef and Bakery Product Development Consultant.
+
+Before suggesting any bakery products, interview me to fully understand my requirements.
+
+Ask ONE question at a time, but each question may contain multiple related clarification points.
+
+Collect the following information during the interview:
+
+• Target Customer
+• Occasion or Use Case
+• Budget
+• Available Ingredients
+• Available Equipment
+• Production Capacity
+• Shelf Life Requirement
+• Packaging Preference
+• Target Selling Price
+• Desired Profit Margin
+• Brand Positioning
+• Dietary Requirements (if any)
+• Preferred Flavours
+• Competitor Products (if any)
+
+If any information is incomplete or unclear, continue asking follow-up questions until sufficient information has been collected.
+
+Do not suggest any products until the interview is complete.
+
+After completing the interview:
+
+1. Summarize all collected requirements.
+2. Identify any assumptions made.
+3. Suggest three innovative bakery products.
+4. For each product provide:
+   • Product Name
+   • Why it suits the target customer
+   • Complete recipe (grams)
+   • Preparation Method
+   • Baking Temperature and Time
+   • Expected Yield
+   • Estimated Production Cost
+   • Suggested Selling Price
+   • Estimated Gross Margin
+   • Packaging Recommendation
+   • Shelf Life
+   • Unique Selling Proposition (USP)
+   • Marketing Tagline
+
+Great — I’ll guide the process as your pastry chef and product development consultant. I’ll ask one comprehensive question at a time to gather everything needed.
+Question 1: To tailor bakery concepts for you, please share:
+•	Target Customer: who are they (demographics, tastes, any dietary tendencies or restrictions)?
+•	Occasion or Use Case: what will these products be used for (daily indulgence, gifting, events, corporate catering, school/fundraising, etc.)?
+•	Budget: what is your budget range for product development and initial production setup (recipe testing, small-batch tooling, initial packaging, etc.)?
+
+Target Customer:
+Primary customers are students, working professionals, young families, and dessert lovers in Bangalore and KGF. They appreciate premium-quality bakery products made with real ingredients, fresh cream, real butter, couverture chocolate, and authentic flavours. Most customers are non-dietary, but future products should also consider eggless and vegetarian options.
+
+Occasion / Use Case:
+Products are intended for daily indulgence, tea-time snacks, celebrations, birthdays, weekend treats, gifting, festive hampers, corporate orders, church events, school events, and pre-order home bakery sales. Products should also be suitable for café-style takeaway and online delivery.
+
+Budget:
+The initial product development budget is ₹10,000–₹15,000. Existing equipment and ingredients should be utilized wherever possible to minimise investment. Small-batch recipe testing is preferred before commercial launch, and packaging should be cost-effective while maintaining a premium brand image.
+
+Question 2: To refine feasibility and costings, please provide details on the following in your next reply: Available Ingredients: core ingredients you have access to or plan to source (flours/types, butter, cream, eggs, sugar, chocolate, nuts/fruits, stabilizers, preservatives), preferred brands, and any supply or dietary constraints. Available Equipment: list of what you already have (ovens, mixers, dough sheeters, proofing cabinets, dehydrators, blast chiller, display fridge, scales, temperature controls, packaging station, etc.) and their capacities. Production Capacity: target daily or weekly volume (units per day), number of shifts, and any batching constraints. Shelf Life Requirement: desired shelf life for your products (ambient vs refrigerated) and any labeling/rotation considerations. Packaging Preference: packaging style and materials (eco-friendly cardboard, PET clamshells, printed sleeves, labels), labeling needs, tamper-evidence, and any branding constraints. Target Selling Price: price range you aim for per unit or product category (examples: cupcakes ₹90–₹150, pastry slices ₹180–₹300, cakes ₹800–₹2500, etc.). Desired Profit Margin: target gross margin percentage or per-unit profit. Brand Positioning: how you want customers to perceive your brand (premium artisanal, modern café-style, value-for-money family bakery, etc.). Dietary Requirements: any must-have options now or in future (eggless, vegetarian, vegan, gluten-free, nut-free, dairy-free), or if you want to keep non-dietary products first and add alternatives later. Preferred Flavours: any signature or core flavors you’d like to start with or avoid (e.g., real vanilla, dark chocolate, pistachio, cardamom). Competitor Products: any local or regional products you want to benchmark against or differentiate from (names or examples). Once I have these, I’ll summarize and proceed with product concepts.
+
+Available Ingredients
+
+The bakery focuses on premium ingredients with minimal artificial additives.
+
+Core ingredients available:
+• Maida (All-purpose flour)
+• Whole wheat flour (limited products)
+• Caster sugar
+• Brown sugar
+• Icing sugar
+• Fresh eggs
+• Unsalted butter
+• Fresh cream
+• Cream cheese
+• Rich's whipping cream
+• Full-fat milk
+• Vanilla extract
+• Couverture dark chocolate
+• Compound chocolate (for selected products)
+• Cocoa powder
+• Biscoff spread
+• Blueberry fruit filling
+• Pistachios
+• Almonds
+• Cashews
+• Walnuts
+• Coconut milk
+• Coffee
+• Tea
+• Seasonal fruits
+• Baking powder
+• Baking soda
+• Gelatin (where applicable)
+
+Preferred brands:
+• Van Houten
+• D'lecta
+• Rich's
+• Amul
+• Morde (where suitable)
+
+No preservatives will be used. Products should rely on natural shelf life and proper refrigeration.
+
+------------------------------------------------------------
+
+Available Equipment
+
+Current equipment includes:
+
+• Agaro 25L OTG
+• 5L Stand Mixer
+• Digital weighing scale
+• Hand mixer
+• Cake turntable
+• Cooling racks
+• Cake decorating tools
+• Refrigerator
+• Freezer
+• Stainless steel mixing bowls
+• Measuring tools
+• Basic packaging station
+
+Future expansion may include:
+• 60L OTG
+• Commercial deck oven
+• Planetary mixer
+• Display refrigerator
+
+------------------------------------------------------------
+
+Production Capacity
+
+Current production is small-batch.
+
+Target production:
+• 20–40 products per day initially
+• Approximately 150–250 products per week
+• Single production shift
+• Weekend production can be increased for pre-orders and special events.
+
+------------------------------------------------------------
+
+Shelf Life Requirements
+
+Fresh products only.
+
+Target shelf life:
+
+• Cookies: 30–45 days
+• Brownies: 5–7 days
+• Tea Cakes: 5–7 days
+• Cheesecakes: 3–5 days (refrigerated)
+• Dessert jars: 2–3 days
+• Pastries: 1–2 days
+
+FIFO (First In, First Out) inventory management and production date labeling will be followed.
+
+------------------------------------------------------------
+
+Packaging Preference
+
+Premium yet cost-effective packaging.
+
+Preferred packaging:
+
+• Food-grade cardboard cake boxes
+• PET dessert jars
+• PET brownie boxes
+• Paper loaf boxes
+• Eco-friendly paper bags
+• Brand stickers
+• Ingredient labels
+• Storage instruction labels
+
+Packaging should reflect a clean artisan bakery image.
+
+------------------------------------------------------------
+
+Target Selling Price
+
+Cookies:
+₹120–₹300
+
+Brownies:
+₹120–₹180 each
+
+Tea Cakes:
+₹250–₹600
+
+Cheesecake Slices:
+₹220–₹350
+
+Whole Cheesecakes:
+₹1,200–₹2,200
+
+Dessert Jars:
+₹180–₹300
+
+Celebration Cakes:
+₹1,200–₹3,500
+
+------------------------------------------------------------
+
+Desired Profit Margin
+
+Target gross margin:
+60–70%
+
+Premium products may achieve higher margins while maintaining perceived value through quality ingredients and presentation.
+
+------------------------------------------------------------
+
+Brand Positioning
+
+Immanuel's Bakehouse is positioned as a premium artisan home bakery.
+
+Brand values:
+
+• Freshly baked to order
+• Real ingredients
+• No unnecessary preservatives
+• Consistent quality
+• Premium taste
+• Innovative flavour combinations
+• Strong focus on customer satisfaction
+
+------------------------------------------------------------
+
+Dietary Requirements
+
+Current focus:
+• Regular products
+• Vegetarian-friendly where applicable
+
+Future roadmap:
+• Eggless products
+• Reduced sugar options
+• Gluten-free products
+• Vegan products
+
+------------------------------------------------------------
+
+Preferred Flavours
+
+Signature flavours include:
+
+• Dark Chocolate
+• Basque Cheesecake
+• New York Cheesecake
+• Blueberry
+• Pistachio
+• Coffee
+• Vanilla
+• Coconut
+• Biscoff
+• Caramel
+• Cardamom
+• Tea
+• Traditional Indian-inspired flavours
+
+The goal is to combine classic European baking with authentic Indian flavours.
+
+------------------------------------------------------------
+
+Competitor Benchmark
+
+Products will be benchmarked against:
+
+• Theobroma
+• Magnolia Bakery
+• local artisan bakeries in Bangalore
+
+The objective is not to copy competitors but to differentiate through:
+• superior ingredient quality,
+• innovative flavour combinations,
+• consistent quality,
+• handcrafted production,
+• and unique products inspired by Indian tastes.
+
+Question 3: To finalize the interview, please confirm or provide details for the following areas. Your responses can be concise but clear. Brand Positioning: Please complete or refine the brand positioning statement. Currently it starts as "Immanuel's Bakehouse is positioned as a premium artisan..." What should the full positioning be (tone, promise, and target impression)? Dietary Requirements: Which options do you want available now or in the near term? (eggs-free, vegetarian, vegan, gluten-free, nut-free, dairy-free, etc.), and what level of allergen controls or cross-contact prevention do you plan to implement? Preferred Flavours: List 3–5 signature or core flavours you want to anchor in the initial lineup (and any flavors you definitely want to avoid). Competitor Products: Name 4–6 local or regional bakery/catery products you want to benchmark against or differentiate from (include product type if you can). Distribution Channels: Which channels should be prioritized (café/takeaway, online delivery, pre-order/home bakery, corporate orders, school/church events, etc.)? Any geographic constraints or delivery partners to consider? Any non-negotiables or must-haves: For example, using real ingredients only, no artificial additives, packaging constraints, sustainability expectations, etc.
+
+Brand Positioning
+
+Immanuel's Bakehouse is positioned as a premium artisan home bakery that delivers handcrafted desserts made with real ingredients, consistent quality, and innovative flavours. Our promise is "A Slice of Happiness in Every Bite," offering freshly baked products that combine international baking techniques with Indian-inspired flavours. We want customers to associate our brand with trust, freshness, craftsmanship, premium quality, and memorable taste.
+
+------------------------------------------------------------
+
+Dietary Requirements
+
+Current Product Line:
+• Vegetarian products
+• Products containing eggs
+
+Near-term Roadmap:
+• Eggless range
+• Reduced sugar options
+• Gluten-free specialty products
+• Vegan desserts (selected items)
+
+Allergen Management:
+• Major allergens (milk, eggs, wheat, nuts) will be clearly declared on product labels.
+• Separate utensils and cleaning procedures will be followed wherever practical.
+• Cross-contact risks will be communicated transparently as this is a home bakery operation.
+
+------------------------------------------------------------
+
+Preferred Signature Flavours
+
+Core launch flavours:
+
+• Signature Dark Chocolate
+• Basque Cheesecake
+• Pistachio
+• Coffee
+• Biscoff
+
+Seasonal & Innovation Flavours:
+
+• Blueberry
+• Coconut
+• Cardamom
+• Mango
+• Salted Caramel
+• Traditional Indian-inspired flavours
+
+Avoid:
+• Artificial fruit flavours
+• Excessively sweet products
+• Artificial colours and flavour enhancers
+
+------------------------------------------------------------
+
+Competitor Benchmark
+
+We aim to benchmark and differentiate ourselves from:
+
+• Theobroma – Brownies, Tea Cakes, Cookies
+• Magnolia Bakery – Cheesecakes and Dessert Jars
+• Glen's Bakehouse – Artisan Cakes and Pastries
+• Aubree – Celebration Cakes
+• Local premium home bakeries in Bangalore
+• Traditional bakeries offering celebration cakes
+
+Differentiation Strategy:
+• Freshly baked to order
+• Premium ingredients
+• Indian-inspired artisan flavours
+• Consistent quality through standardized recipes and SOPs
+• Personalized customer experience
+
+------------------------------------------------------------
+
+Distribution Channels
+
+Priority Channels:
+
+1. Pre-order Home Bakery (Primary)
+2. WhatsApp Business
+3. Instagram
+4. Direct Pickup
+5. Corporate Orders
+6. Church and Community Events
+7. School and College Events
+8. Weekend Pop-up Sales
+9. Gift Hampers and Festive Orders
+
+Geographic Focus:
+
+• Bangalore
+• KGF (Kolar Gold Fields)
+
+Delivery:
+• Customer pickup
+• Local delivery partners where feasible
+• Third-party delivery platforms in the future if operational requirements are met
+
+------------------------------------------------------------
+
+Non-Negotiables / Must-Haves
+
+• Use real, high-quality ingredients.
+• No unnecessary preservatives.
+• Freshly baked in small batches.
+• Standardized recipes and production SOPs.
+• Consistent product quality through quality checks.
+• Food-safe, premium packaging with proper labelling.
+• Transparent ingredient and allergen information.
+• Continuous product improvement based on customer feedback.
+• Build the bakery using Quality Management System (QMS) principles inspired by ISO 9001.
+• Every product should deliver "A Slice of Happiness in Every Bite."
+
+Chain of Thoughts Examples
+1. Cake Recipe Generator 
+Act as a Master Pastry Chef.
+Develop the recipe step by step.
+1. Understand customer.
+2. Occasion.
+3. Flavor profile.
+4. Texture.
+5. Ingredient selection.
+6. Recipe formulation.
+7. Baking temperature.
+8. Baking time.
+9. Cooling.
+10. Decoration.
+11. Costing.
+12. Selling Price.
+13. Margin.
+14. Shelf life.
+Generate:
+• Recipe
+• Cost Sheet
+• SOP
+• Packaging
+
+2. Menu Planning Assistant 
+Act as Bakery Product Development Manager.
+Reason step by step.
+1. Identify target customers.
+2. Identify best-selling category.
+3. Select complementary products.
+4. Balance premium and affordable.
+5. Optimize ingredients.
+6. Reduce waste.
+7. Improve profit.
+8. Recommend seasonal specials.
+
+Generate:
+Launch Menu
+Menu Engineering Matrix
+Expected Margin
+
+3. Marketing Campaign Generator 
+Act as Bakery Marketing Manager.
+Think step by step.
+1. Understand product.
+2. Identify audience.
+3. Determine USP.
+4. Emotional trigger.
+5. Social media strategy.
+6. Launch campaign.
+7. Instagram caption.
+8. Facebook caption.
+9. WhatsApp promotion.
+10. Email campaign.
+11. Hashtags.
+12. Call-to-action.
+Generate complete campaign.
+
+4. Bakery Cost Optimizer
+Analyze step by step.
+• Ingredient cost
+• Packaging
+• Labour
+• Electricity
+• Overhead
+• Profit
+• Selling Price
+• Competitor comparison
+Recommend optimized selling price.
+
+5. Production Planner
+Reason step by step.
+1. Customer Orders
+2. Required Ingredients
+3. Inventory
+4. Purchase List
+5. Batch Planning
+6. Oven Schedule
+7. Packaging
+8. Dispatch Schedule
+Generate Production Plan.
+
+6. Product Innovation Generator
+Think through product development.
+1. Current trends
+2. Available ingredients
+3. Customer preferences
+4. Competitor analysis
+5. Cost feasibility
+6. Production feasibility
+7. Branding
+8. Marketing
+Generate three innovative bakery products.
+
+Tree of Thoughts
+1. New Product Development 
+Instead of
+Suggest one product
+Generate
+Branch A
+Tea Cake
+Evaluate
+Ingredient Cost
+Shelf Life
+Production Time
+Profit
+Branch B
+Cookies
+Evaluate
+Margin
+Packaging
+Market Demand
+Branch C
+Dessert Jar
+Evaluate
+Equipment
+Branding
+Customer Appeal
+Compare
+Recommend
+Launch Product.
+
+2. Menu Planning 
+Generate
+Three Menu Strategies
+Branch A
+Premium Menu
+Branch B
+Affordable Daily Menu
+Branch C
+Seasonal Menu
+Compare
+Revenue
+Cost
+Repeat Customers
+Production Complexity
+Recommend.
+
+3. Marketing Campaign
+Generate
+Three Campaign Ideas
+Instagram
+Corporate
+Festivals
+Evaluate
+Reach
+Cost
+ROI
+Brand Impact
+Recommend.
+
+4. Equipment Purchase
+This is something you actually struggled with.
+Example
+I want to expand my bakery.
+Generate three investment strategies.
+Branch A
+Buy Deck Oven
+Branch B
+Upgrade OTG
+Branch C
+Rent Commercial Kitchen
+Evaluate
+• Initial Cost
+• Capacity
+• ROI
+• Electricity
+• Maintenance
+• Business Risk
+Recommend the best option.
+
+5. Expansion Strategy
+Generate
+Branch A
+Home Bakery
+Branch B
+Cloud Kitchen
+Branch C
+Retail Store
+Compare
+Investment
+Break Even
+Risk
+Growth
+Recommend.
+
+Play Off Method
+The Playoff Method is about generating multiple prompts for the same task, comparing the outputs, and selecting the best prompt.
+Idea
+    ↓
+Prompt A
+
+Prompt B
+
+Prompt C
+    ↓
+Compare Outputs
+    ↓
+Evaluate
+    ↓
+Choose Winner
+    ↓
+Improve Winner
+    ↓
+Save as Reusable Prompt
+
+Bakehouse Example 1 – Recipe Generator
+
+Prompt A
+
+Generate Pistachio Cheesecake Recipe.
+
+Prompt B
+
+Generate a professional bakery recipe with costing.
+
+Prompt C
+
+Act as Professional Pastry Chef.
+
+Interview me.
+
+Collect
+
+Equipment
+Ingredients
+Budget
+Shelf Life
+Selling Price
+Margin
+
+Then generate
+
+Recipe
+Cost
+Selling Price
+Margin
+Packaging
+
+Winner
+
+✅ Prompt C
+
+Bakehouse Example 2 – Product Development
+
+Prompt A
+
+Suggest bakery products.
+
+Prompt B
+
+Suggest innovative premium bakery products.
+
+Prompt C
+
+Act as Professional Pastry Chef.
+
+Interview me.
+
+Collect
+
+Target Customer
+Budget
+Equipment
+Market
+Competition
+
+Generate
+
+Three products
+Recipe
+Cost
+Selling Price
+Marketing Tagline
+
+Winner
+
+✅ Prompt C
+
+Bakehouse Example 3 – Marketing Campaign
+
+Prompt A
+
+Write Instagram post.
+
+Prompt B
+
+Generate Facebook campaign.
+
+Prompt C
+
+Act as Digital Marketing Manager.
+
+Interview me.
+
+Collect
+
+Product
+Target Audience
+Festival
+Budget
+Brand Voice
+
+Generate
+
+Instagram
+Facebook
+WhatsApp
+Poster
+CTA
+Hashtags
+
+Winner
+
+✅ Prompt C
+
+Bakehouse Example 4 – Menu Engineering
+
+Prompt A
+
+Generate Menu.
+
+Prompt B
+
+Generate Premium Bakery Menu.
+
+Prompt C
+
+Act as Bakery Business Consultant.
+
+Interview me.
+
+Collect
+
+Equipment
+Capacity
+Pricing
+Margin
+Shelf Life
+Demand
+
+Generate
+
+Menu
+ABC Analysis
+Profit Ranking
+Product Mix
+Launch Plan
+
+Winner
+
+✅ Prompt C
+
+Problem Statement
+
+Objective
+
+Prompt A
+
+Output A
+
+------------------------------------
+
+Prompt B
+
+Output B
+
+------------------------------------
+
+Prompt C
+
+Output C
+
+------------------------------------
+
+Evaluation Criteria
+
+✓ Accuracy
+✓ Completeness
+✓ Context Awareness
+✓ Reusability
+✓ Scalability
+✓ Hallucination Risk
+
+------------------------------------
+
+Pairwise Comparison
+
+A vs B
+
+A vs C
+
+B vs C
+
+------------------------------------
+
+Winner
+
+Reason
+
+------------------------------------
+
+Version 1.0 Approved Prompt
+
+Lessons Learned
+
+Role Play
+Act as a Bakery Operations Manager.
+
+Interview me before creating employee onboarding materials.
+
+Collect:
+
+• Employee Role
+• Experience
+• Equipment
+• Food Safety
+• SOPs
+• Cleaning Procedures
+• Production Workflow
+
+Generate:
+
+• Employee Handbook
+• Daily Checklist
+• Food Safety Training
+• Cleaning SOP
+• Production SOP
+• Quality Checklist
+
+Final Project
+Bakehouse Assistant
+
+Interview customer
+
+↓
+
+Recommend products
+
+↓
+
+Generate recipe
+
+↓
+
+Generate costing
+
+↓
+
+Marketing
+
+↓
+
+Packaging
+
+Text prompts for Image
+1. Hero Product Photography
+
+Prompt
+
+Professional food photography of a Basque Cheesecake on a marble table, golden caramelized top, sliced serving, natural lighting, shallow depth of field, premium bakery branding.
+
+2. Brownie Advertisement
+
+Prompt
+
+Rich chocolate brownie with molten texture, premium packaging, coffee beans beside the dessert, luxury bakery advertisement, warm cinematic lighting.
+
+3. Bakery Interior
+
+Prompt
+
+Design a premium artisan home bakery interior with blue and gold branding, wooden shelves, fresh breads, cheesecakes, brownies, elegant display counter.
+
+4. Product Catalogue
+
+Prompt
+
+Create a bakery menu catalogue displaying cheesecakes, brownies, tea cakes, dessert jars and cookies with elegant typography and premium pricing layout.
+
+5. Packaging Mockup
+
+Prompt
+
+Design premium blue and gold packaging for Immanuel's Bakehouse including cake box, brownie sleeve, cheesecake box and branded thank-you card.
+
+6. Instagram Launch Banner
+
+Prompt
+
+Create a luxury Instagram banner announcing the launch of Immanuel's Bakehouse with the tagline "A Slice of Happiness in Every Bite", featuring signature desserts and elegant branding.
+Example 2 – Basque Cheesecake
+
+Level 1
+
+Generate a Basque Cheesecake.
+
+Level 2
+
+Generate a professional photograph of a Basque Cheesecake.
+
+Level 3
+
+Generate a premium food photography image of a Basque Cheesecake with caramelized top, marble background, soft daylight and elegant styling.
+
+Level 4
+
+Generate a high-resolution luxury bakery advertisement featuring a Basque Cheesecake on a marble table with fresh berries, gold cutlery, warm cinematic lighting, shallow depth of field, blue and gold branding accents, suitable for a premium bakery brochure.
+
